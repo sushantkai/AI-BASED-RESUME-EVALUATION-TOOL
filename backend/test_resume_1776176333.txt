@@ -1,4 +1,0 @@
-John Doe
-Python Angular SQL FastAPI Docker
-Experience: 5 years
-Bachelor of Technology in Computer Science
